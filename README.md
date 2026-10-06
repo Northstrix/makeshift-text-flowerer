@@ -17,6 +17,8 @@ Link: https://northstrix.github.io/makeshift-text-flowerer/index.html
 
 [チェックしないと押せないボタン](https://codepen.io/ash_creator/pen/JjZReNm) by [あしざわ - Webクリエイター](https://codepen.io/ash_creator)
 
+[AnimateIcons](https://animateicons.in/) by [Avijit Dey](https://github.com/Avijit07x/animateicons)
+
 Inspired by [Type Garden](https://type-garden.vercel.app/)
 
 Made by [Maxim Bortnikov](https://maxim-bortnikov.netlify.app/) using [Google AI Studio](https://aistudio.google.com/)
