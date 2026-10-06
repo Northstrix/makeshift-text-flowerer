@@ -1,6 +1,10 @@
 # Makeshift Text Flowerer
 Deterministic botanical typography tool that weaves intertwined flowers, vines, and leaves through open-source fonts with customizable palettes and individual flower overrides.
 
+Link: https://northstrix.github.io/makeshift-text-flowerer/index.html
+
+![Preview](https://raw.githubusercontent.com/Northstrix/makeshift-text-flowerer/refs/heads/main/preview.png)
+
 ## Credit & Info
 
 [Color Picker](https://21st.dev/community/components/uplusion23/color-picker/color-picker-with-swatches-and-onchange) by [Trevor McIntire](https://21st.dev/community/uplusion23)
